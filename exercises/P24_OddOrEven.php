@@ -9,9 +9,9 @@ class P24_OddOrEven
 
         echo "Give a number: \n";
         if ($number % 2 == 0) {
-            echo "Number " . $number . " is even. \n";
+            echo "Number is even. \n";
         } else {
-            echo "Number " . $number . " is odd. \n";
+            echo "Number is odd. \n";
         }
     }
 }
